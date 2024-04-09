@@ -5,7 +5,6 @@ export const navbar = {
         onkeskyen: 'span.ant-dropdown-menu-title-content a[href$="https://inspiration.onskeskyen.dk"]',
     },
 }
-
 export const brands = {
     category: {
         bornAndBabyText: 'Børn & Baby',
