@@ -1,2 +1,2 @@
 # gowish-challenge
-Is an app where you can create wish lists and share them with friends and family.
+JavaScript-based test automation framework using Cypress for gowish app. Includes test cases, fixtures, and custom commands
